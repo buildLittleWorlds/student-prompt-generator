@@ -1,0 +1,42 @@
+body {
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  .container {
+    background: #fff;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  #output {
+    font-size: 24px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #generate {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #ff9a8c;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #generate:hover {
+    background-color: #ff866b;
+  }
+  
