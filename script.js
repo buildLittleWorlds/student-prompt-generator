@@ -1,4 +1,4 @@
-const names = ['Adam', 'Stella', 'Ashleigh', 'Amber', 'Kristiana', 'Madeline', 'Jacob', 'Michael E', 'Natalia', 'Chloe', 'Raya', 'Annelyse', 'Erin', 'Nick', 'Max', 'Eric', 'Ashley', 'Michael S', 'Brenden', 'Isabella', 'Aleah'];
+const names = ['Adam', 'Stella', 'Ashleigh', 'Amber', 'Kristiana', 'Madeline', 'Jake', 'Michael E', 'Chloe', 'Raya', 'Annelyse', 'Erin', 'Nicholas', 'Max', 'Eric', 'Ashley', 'Michael S', 'Brenden', 'Isabella', 'Aleah'];
 const studentPrompts = {
     1: "Alright [name], what's your hot take on this essay?",
     2: "Spill the tea, [name]! What are your thoughts?",
